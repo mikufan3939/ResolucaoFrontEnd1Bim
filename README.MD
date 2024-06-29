@@ -1,5 +1,5 @@
-<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://i.imgur.com/6WMtJYD.gif"></a>
-# Resolução Profa Front-End 1º Bimestre ☝️🤓
+<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://media.tenor.com/tmwsleNDQ5cAAAAM/noko-kanoko-anime.gif"></a>
+# Resolução Prova Front-End 1º Bimestre ☝️🤓
 ## Objetivas✅
 - 1 - D
 - 2 - A
