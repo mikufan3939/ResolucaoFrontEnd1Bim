@@ -1,0 +1,14 @@
+.quadrado{
+    width: 10px; /*Definindo a largura*/
+    height: 10px; /*Definindo a altura*/
+    border-width: 10px; /*Definindo a largura da borda*/
+    border-color: black; /*Definindo a cor da borda*/
+}
+
+.quadrado{
+    width: 10px; /*Definindo a largura*/
+    height: 10px; /*Definindo a altura*/
+    border-width: 10px; /*Definindo a largura da borda*/
+    border-color: black; /*Definindo a cor da borda*/
+    border-radius: 50%; /*Transformando em um circulo*/
+}
