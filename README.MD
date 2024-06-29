@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://c.tenor.com/Zf35nqIQW2cAAAAd/tenor.gif"></a>
+<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://media.tenor.com/tmwsleNDQ5cAAAAM/noko-kanoko-anime.gif"></a>
 # Resolução Prova Front-End 1º Bimestre ☝️🤓
 ## Objetivas✅
 - 1 - D
