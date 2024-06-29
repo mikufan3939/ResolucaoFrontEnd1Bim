@@ -1,7 +1,5 @@
-
-
+<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://i.imgur.com/6WMtJYD.gif"></a>
 # Resolução Profa Front-End 1º Bimestre ☝️🤓
-<a href="https://www.youtube.com/watch?v=nwuW98yLsgY"><img src="https://c.tenor.com/Zf35nqIQW2cAAAAd/tenor.gif"></a>
 ## Objetivas✅
 - 1 - D
 - 2 - A
